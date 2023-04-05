@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hg8GsdqUdc7BW7mmZXu9bHvDlTBKRnLAP9s6Cz/paxWzIdD93rPEoF+Ff0gc7UMh2fVwNC8csxkIg8RjMFiEUw==",
+  "success": true,
+  "projectFilePath": "/Users/idoflatow/Documents/GCPTests/upload-file-latency/src/helloworld.csproj",
+  "expectedPackageFiles": [
+    "/Users/idoflatow/.nuget/packages/google.api.gax/4.3.1/google.api.gax.4.3.1.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.api.gax.rest/4.3.1/google.api.gax.rest.4.3.1.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.apis/1.60.0/google.apis.1.60.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.apis.auth/1.60.0/google.apis.auth.1.60.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.apis.core/1.60.0/google.apis.core.1.60.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.apis.storage.v1/1.60.0.2742/google.apis.storage.v1.1.60.0.2742.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/google.cloud.storage.v1/4.4.0/google.cloud.storage.v1.4.4.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/idoflatow/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
